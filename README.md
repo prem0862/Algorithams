@@ -3,6 +3,16 @@
 
 This repo mainly contains the basic and important algorithms
 - Sieve of Eratosthenes
-- Manacher's Algorithm
 - GCD of numbers
+- Searching Algorithms
+  - Linear Search
+  - Binery Search
+- Sorting Algorithms
+  - Bubble sort
+  - Selection sort
+  - Insertion sort
+  - Merge sort
+  - Quick sort
+  - Heap sort
+- Manacher's Algorithm
 - Kundane Algorithm
