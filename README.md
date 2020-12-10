@@ -14,5 +14,7 @@ This repo mainly contains the basic and important algorithms
   - Merge sort
   - Quick sort
   - Heap sort
+  - Radix sort
+  - Counting sort
 - Manacher's Algorithm
 - Kundane Algorithm
